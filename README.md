@@ -6,7 +6,7 @@ Scope Insensitivity: A common cognitive bias that occurs when people make judgme
 
 Hypothesis: Participants who complete a math activity are less affected by scope insensitivity. Their valuations will change in a way that is closer to proportional than the valuations of those who complete a grammar activity.
 
-Conclusion: After multiple regressions testing for joint significance with different models - linear-linear, linear-log, log-linear and log-log - it has been concluded that there is no statistical significance between the Math activity (considering the other explanatory variables of interest) and the:
+Conclusion: After multiple regressions testing for joint significance with different models - linear-linear, linear-log, log-linear and log-log - it has been concluded that there is no statistically significant difference between the Math activity (considering the other explanatory variables of interest) and the:
 
 1. Overall accuracy score
 2. Accuracy score for the bird-related questions
