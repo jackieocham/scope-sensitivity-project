@@ -12,3 +12,5 @@ Conclusion: After multiple regressions testing for joint significance with diffe
 2. Accuracy score for the bird-related questions
 3. Accuracy score for the turtle-related questions
 4. Accuracy score for the human-related questions
+
+Collaborated with Ethan Nguyen-Tu. GitHub: EthanNguyen-Tu
