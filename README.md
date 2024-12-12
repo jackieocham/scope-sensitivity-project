@@ -1,6 +1,6 @@
 # scope-sensitivity-project
 
-Experimental research group project for ECON 4803 Behavioral Economics.
+Experimental research group project for ECON 4803 Behavioral Economics completed Dec 2022.
 
 Scope Insensitivity: A common cognitive bias that occurs when people make judgments that show no concern to the number - or scope - of the things they are evaluating
 
